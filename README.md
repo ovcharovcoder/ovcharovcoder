@@ -16,7 +16,7 @@
 
 <style>
   .custom-list {
-    list-style: none;
+    list-style: none !important;
     padding: 0;
   }
 </style>
