@@ -4,7 +4,7 @@
 <h3>
 <a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong>Portfolio</strong></a></h3>
 
-<ul style="list-style:none;">
+<ul class="custom-list">
   <li>✔️ <strong>Experience:</strong> 5+ years in web development and design</li>
   <li>✔️ <strong>Technologies:</strong> HTML, CSS, JavaScript, PHP</li>
   <li>✔️ <strong>Platforms:</strong> WordPress, Webflow, Kajabi</li>
@@ -13,6 +13,13 @@
   <li>✔️ <strong>Focus:</strong> Quality, attention to detail, and user needs</li>
   <li>✔️ <strong>Continuous Learning:</strong> Always exploring and implementing new technologies</li>
 </ul>
+
+<style>
+  .custom-list {
+    list-style: none;
+    padding: 0;
+  }
+</style>
 
 Continuous Learning: Always exploring and implementing new technologies
 
