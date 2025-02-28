@@ -2,7 +2,16 @@
 
 <h2>Front-end Developer | Web Designer</h2>
 <h3>
-<a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong>Portfolio</strong></a></h3>
+<a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong>View Portfolio</strong></a></h3>
+
+✔️ **Experience:** 5+ years in web development and design  
+✔️ **Technologies:** HTML, CSS, JavaScript, PHP  
+✔️ **Platforms:** WordPress, Webflow, Kajabi  
+✔️ **Tools:** Gulp, Webpack, Sass  
+✔️ **Design:** Figma, Canva  
+✔️ **Focus:** Quality, attention to detail, and user needs  
+✔️ **Continuous Learning:** Always exploring and implementing new technologies  
+
 
 <ul>
   <li><strong>Experience:</strong> 5+ years in web development and design</li>
