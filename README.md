@@ -14,5 +14,7 @@
 
 
 📫: Reach me out!
+![Static Badge](https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue)
+
 
 
