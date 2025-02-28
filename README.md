@@ -16,12 +16,6 @@
 📫: Reach me out!<br><br>
 
 
-<a href="https://www.facebook.com/OvcharovCoder" target="_blank" style="color: #1877F2; font-weight: bold;">Facebook</a>
-<a href="https://www.linkedin.com/in/andriy-ovcharov-101a24196" target="_blank" style="color: #0A66C2; font-weight: bold;">LinkedIn</a>
-<a href="https://t.me/OvcharovCoder" target="_blank" style="color: #0088CC; font-weight: bold;">Telegram</a>
-<a href="https://www.youtube.com/channel/UCHcvvPH7NpC8o-us1c-bVKQ" target="_blank" style="color: #FF0000; font-weight: bold;">YouTube</a>
-
-
 
 <a href="https://www.facebook.com/OvcharovCoder" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue"> 
@@ -30,7 +24,7 @@
  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=inspire&logoColor=white&labelColor=blue">
 </a>
 <a href="https://t.me/OvcharovCoder" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=50px&labelColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white&logoSize=20px&labelColor=blue">
 </a>
 <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
