@@ -17,7 +17,7 @@
 ✔️ **Continuous Learning:** Always exploring and implementing new technologies  
 
 <hr>
-📫: Reach me out!<br><br>
+📫: <h3>Reach me out!</h3><br><br>
 
 <a href="https://www.facebook.com/OvcharovCoder" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge">
