@@ -31,7 +31,7 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCHcvvPH7NpC8o-us1c-bVKQ" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white&labelColor=red">
+<img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logoColor=white&logoSize=50px&labelColor=red">
 </a>
 
 
