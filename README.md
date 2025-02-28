@@ -1,13 +1,8 @@
 ## Hi 👋, I'm Andriy
 
 <h2>Front-end Developer | Web Designer</h2>
-<a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong>Portfolio</strong></a>
+<a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong><h3>Portfolio</h3></strong></a>
 
-
-
-[**Портфоліо**](https://ovcharov-portfolio.webflow.io/){:target="_blank"}
-
-[Portfolio](https://ovcharov-portfolio.webflow.io/)
 
 Experience: 5+ years in web development and design
 Technologies: HTML, CSS, JavaScript, PHP
