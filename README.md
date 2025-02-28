@@ -21,6 +21,9 @@
 <a href="https://www.linkedin.com/in/andriy-ovcharov-101a24196" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=inspire&logoColor=white&labelColor=blue">
 </a>
+<a href="@OvcharovCoder" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white&labelColor=blue">
+</a>
 <a href="https://www.youtube.com/channel/UCHcvvPH7NpC8o-us1c-bVKQ" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white&labelColor=red">
 </a>
