@@ -1,6 +1,8 @@
 ## Hi 👋, I'm Andriy
 
 <h2>Front-end Developer | Web Designer</h2>
+[**Портфоліо**](https://ovcharov-portfolio.webflow.io/){:target="_blank"}
+
 [Portfolio](https://ovcharov-portfolio.webflow.io/)
 
 Experience: 5+ years in web development and design
