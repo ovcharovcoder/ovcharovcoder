@@ -18,7 +18,7 @@
 
 
 <a href="https://www.facebook.com/OvcharovCoder" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logoColor=white&logoSize=50px&labelColor=blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logoColor=white&labelColor=blue">
 </a>
 <a href="https://www.linkedin.com/in/andriy-ovcharov-101a24196" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
