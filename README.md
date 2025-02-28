@@ -17,7 +17,7 @@
 
 <a href="https://www.facebook.com/OvcharovCoder" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue">
-</a><span> </span>
+</a>
 <a href="https://www.facebook.com/OvcharovCoder" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue">
 </a>
