@@ -13,7 +13,7 @@
 ✔️ **Continuous Learning:** Always exploring and implementing new technologies  
 
 
-📫: Reach me out!<br>
+📫: Reach me out!<br><br>
 ![Static Badge](https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue)
 
 
