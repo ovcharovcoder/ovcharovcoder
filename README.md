@@ -4,15 +4,7 @@
 <h3>
 <a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong>Portfolio</strong></a></h3>
 
- <span>✔️<strong> Experience:</strong> 5+ years in web development and design</span><br>
-  <span>✔️<strong> Technologies:</strong> HTML, CSS, JavaScript, PHP<span><br>
-  <span>✔️<strong> Platforms:</strong> WordPress, Webflow, Kajabi<span><br>
-  <span>✔️<strong> Tools:</strong> Gulp, Webpack, Sass<span><br>
-  <span>✔️<strong> Design:</strong> Figma, Canva<span><br>
- <span>✔️<strong> Focus:</strong> Quality, attention to detail, and user needs<span><br>
-  <span>✔️<strong> Continuous Learning:</strong> Always exploring and implementing new technologies</li>
-
-<ul class="custom-list">
+<ul>
   <li><strong>Experience:</strong> 5+ years in web development and design</li>
   <li><strong>Technologies:</strong> HTML, CSS, JavaScript, PHP</li>
   <li><strong>Platforms:</strong> WordPress, Webflow, Kajabi</li>
