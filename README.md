@@ -24,7 +24,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge">
 </a>
 <a href="https://t.me/OvcharovCoder" target="_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%230088CC?style=for-the-badge">
 </a>
 <a href="https://www.youtube.com/channel/UCHcvvPH7NpC8o-us1c-bVKQ" target="_blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logoColor=white&logoSize=50px&labelColor=red">
