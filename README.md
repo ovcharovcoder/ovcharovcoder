@@ -18,9 +18,13 @@
 <a href="https://www.facebook.com/OvcharovCoder" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue">
 </a>
+<a href="https://www.facebook.com/OvcharovCoder" target="_blank">
+ <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue">
+</a>
+<a href="https://www.youtube.com/channel/UCHcvvPH7NpC8o-us1c-bVKQ" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white&labelColor=red">
+</a>
 
-
-![Static Badge](https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue)
 
 
 
