@@ -16,9 +16,9 @@
 📫: Reach me out!<br><br>
 
 <a href="https://www.facebook.com/OvcharovCoder" target="_blank">
- <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue">
+ <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue"> 
 </a>
-<a href="https://www.facebook.com/OvcharovCoder" target="_blank">
+<a href="https://www.linkedin.com/in/andriy-ovcharov-101a24196" target="_blank">
  <img alt="Static Badge" src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white&labelColor=blue">
 </a>
 <a href="https://www.youtube.com/channel/UCHcvvPH7NpC8o-us1c-bVKQ" target="_blank">
