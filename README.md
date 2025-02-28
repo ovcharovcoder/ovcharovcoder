@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Andriy
 <h2>Front-end Developer | Web Designer <br><br><a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong>🌐 View Portfolio</strong></a></h2>
 
-✔️ **Experience:** 5+ years in web development and design
-✔️ **Technologies:** HTML, CSS, JavaScript, PHP  
+✔️ **Experience:** 5+ years in web development and design 
+✔️ **Technologies:** HTML, CSS, JavaScript, PHP 
 ✔️ **Platforms:** WordPress, Webflow, Kajabi  
 ✔️ **Tools:** Gulp, Webpack, Sass  
 ✔️ **Design:** Figma, Canva  
