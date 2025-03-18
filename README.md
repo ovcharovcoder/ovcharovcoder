@@ -32,6 +32,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logoColor=white&logoSize=50px&labelColor=red">
 </a>
 
+<h5>The future is at your fingertips. Write code!</h5>
+
 
 
 
