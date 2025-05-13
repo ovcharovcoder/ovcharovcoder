@@ -8,7 +8,7 @@
   
 ✔️ **Platforms:** WordPress, Webflow, Kajabi
   
-✔️ **Tools:** Gulp, Webpack, BEM, Sass, TailwindCSS 
+✔️ **Tools:** Gulp, Webpack, BEM, Sass, Bootstrap, TailwindCSS 
   
 ✔️ **Design:** Figma, Canva
   
