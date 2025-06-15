@@ -16,7 +16,7 @@
   
 ✔️ **Continuous Learning:** Always exploring and implementing new technologies  
 
-✔️ **VS Code Extensions:** Themes (Solaria, Barva) & Ukrainian UI translation — all on the<a href="https://marketplace.visualstudio.com/publishers/ovcharovcoder"> Marketplace</a>
+✔️ **VS Code Extensions:** Themes (Solaria, Barva) & Ukrainian UI translation — all on the<a href="https://marketplace.visualstudio.com/publishers/ovcharovcoder"> Visual Studio Marketplace</a>
 
 <hr>
 <h3>📫:Reach me out!</h3><br>
