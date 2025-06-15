@@ -16,6 +16,8 @@
   
 ✔️ **Continuous Learning:** Always exploring and implementing new technologies  
 
+✔️ **VS Code Extensions:** Author of custom themes (Solaria, Barva) and interface translation — explore them all here: marketplace.visualstudio.com/publishers/ovcharovcoder
+
 <hr>
 <h3>📫:Reach me out!</h3><br>
 
