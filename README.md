@@ -4,11 +4,11 @@
 
 ✔️ **Experience:** 5+ years in web development and design  
 
-✔️ **Technologies:** HTML, CSS, JavaScript, PHP
+✔️ **Technologies:** HTML, CSS, SCSS, JavaScript, PHP
   
 ✔️ **Platforms:** WordPress, Webflow, Kajabi
   
-✔️ **Tools:** Gulp, Webpack, BEM, Sass, Bootstrap, TailwindCSS 
+✔️ **Tools:** Gulp, Webpack, BEM, Sass, Bootstrap, TailwindCSS, Git 
   
 ✔️ **Design:** Figma, Canva
   
