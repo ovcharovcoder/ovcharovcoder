@@ -2,8 +2,6 @@
 <h3>UI/UX, Web Design and Front-end Developer <br><br><a href="https://ovcharov-portfolio.webflow.io/" target="_blank"><strong>🌐 View Portfolio</strong></a></h3>
 <hr>
 
-✔️ **Experience:** 5+ years in web development and design  
-
 ✔️ **Technologies:** HTML, CSS, SCSS, JavaScript, PHP
   
 ✔️ **Platforms:** WordPress, Webflow, Kajabi
